@@ -1,0 +1,27 @@
+body {
+    background: #043F65;
+    font-family: 'Rubik Mono One', sans-serif;
+}
+#calculator {
+    background: #9294AD;
+    margin: 20% auto;
+    padding: 2%;
+    width: 50%;
+    text-align: center;
+    border: solid #20024C 10px;
+    border-radius: 2%
+}
+#display {
+    width: 64%;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 2%;
+}
+div div button {
+    width: 16%;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 4px;
+    background: #5193BD;
+    font-family: 'Rubik Mono One';
+}
